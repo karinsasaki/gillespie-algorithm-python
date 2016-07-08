@@ -33,6 +33,7 @@ karin.sasaki@embl.de
 
 - Appendix A - Describe what a probability density function is and give simple examples.
 - Appendix B - Derive the Chemical Master Equation, Prove that samples with Gillespie fall under the probability density function that follows the CME
+- Create exercises
 - Include the following somehow: 
     * The Gillespie algorith makes an exact numerical calculations within the framework of the stochastic formulation 
 without having to deal with the master equation directly (which is a good thing because the master equation is often mathematically intractable). 
